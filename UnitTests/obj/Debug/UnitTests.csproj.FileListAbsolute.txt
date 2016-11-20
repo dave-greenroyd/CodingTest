@@ -1,0 +1,9 @@
+F:\orange\CodingTest\UnitTests\bin\Debug\UnitTests.dll
+F:\orange\CodingTest\UnitTests\bin\Debug\UnitTests.pdb
+F:\orange\CodingTest\UnitTests\bin\Debug\nunit.framework.dll
+F:\orange\CodingTest\UnitTests\bin\Debug\SkeletonCode.dll
+F:\orange\CodingTest\UnitTests\bin\Debug\SkeletonCode.pdb
+F:\orange\CodingTest\UnitTests\bin\Debug\nunit.framework.xml
+F:\orange\CodingTest\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+F:\orange\CodingTest\UnitTests\obj\Debug\UnitTests.dll
+F:\orange\CodingTest\UnitTests\obj\Debug\UnitTests.pdb

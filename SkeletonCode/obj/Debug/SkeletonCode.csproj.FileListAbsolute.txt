@@ -1,0 +1,5 @@
+F:\orange\CodingTest\SkeletonCode\bin\Debug\SkeletonCode.dll
+F:\orange\CodingTest\SkeletonCode\bin\Debug\SkeletonCode.pdb
+F:\orange\CodingTest\SkeletonCode\obj\Debug\SkeletonCode.dll
+F:\orange\CodingTest\SkeletonCode\obj\Debug\SkeletonCode.pdb
+F:\orange\CodingTest\SkeletonCode\obj\Debug\SkeletonCode.csprojResolveAssemblyReference.cache
